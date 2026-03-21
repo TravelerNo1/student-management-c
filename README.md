@@ -93,3 +93,10 @@ gcc student-management.c -o student-management
 5. Save to File
 6. Clear the Screen
 0. Exit
+
+---
+## 今後の改善点
+名前による検索機能の追加
+入力データのバリデーション強化
+GUIの導入
+データ保存形式の改善（CSV / データベースなど）
