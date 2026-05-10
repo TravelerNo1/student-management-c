@@ -85,7 +85,7 @@ gcc student-management.c -o student-management
 ./student-management
 
 ```
-## 実行例
+## 执行示例
 1. Add Student
 2. Show Students
 3. Search Student
